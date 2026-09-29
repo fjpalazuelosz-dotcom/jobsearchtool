@@ -12,7 +12,7 @@ A copy-and-paste specification for building a **new person's** job-search Site i
 | [PROJECT_INSTRUCTIONS.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/PROJECT_INSTRUCTIONS.md) | Boundaries and recurring operating rules | Paste into the new Project's Instructions field |
 | [CREATE_SITE.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/CREATE_SITE.md) | One-time build and deployment request | Paste as the first message in the new Project |
 | [SCHEDULED_RUN.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/SCHEDULED_RUN.md) | Single-run instructions for the automation | Use when creating or reviewing the scheduled task |
-| [ACCEPTANCE.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/b596038b11e46b90e5c6aa037a15530aa32d5386/ACCEPTANCE.md)) | Verification checklist and limits | Use before saying the copy is complete |
+| [ACCEPTANCE.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/b596038b11e46b90e5c6aa037a15530aa32d5386/ACCEPTANCE.md) | Verification checklist and limits | Use before saying the copy is complete |
 
 ## Quick start in another account
 
