@@ -9,10 +9,10 @@ A copy-and-paste specification for building a **new person's** job-search Site i
 | File | Purpose | Where to use it |
 | --- | --- | --- |
 | [CREATE_SITE.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/2c7aa2d67d7f1229587252fe6142bcb0a6620ea0/CREATE_SITE.md) | Fill-in profile, criteria, schedule, privacy and publishing choices | Copy into the new ChatGPT Project as a message or attached file |
-| [`prompts/PROJECT_INSTRUCTIONS.md`](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/PROJECT_INSTRUCTIONS.md) | Boundaries and recurring operating rules | Paste into the new Project's Instructions field |
-| [`prompts/CREATE_SITE.md`](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/CREATE_SITE.md) | One-time build and deployment request | Paste as the first message in the new Project |
-| [`prompts/SCHEDULED_RUN.md`](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/SCHEDULED_RUN.md) | Single-run instructions for the automation | Use when creating or reviewing the scheduled task |
-| [`docs/ACCEPTANCE.md`](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/b596038b11e46b90e5c6aa037a15530aa32d5386/ACCEPTANCE.md)) | Verification checklist and limits | Use before saying the copy is complete |
+| [PROJECT_INSTRUCTIONS.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/PROJECT_INSTRUCTIONS.md) | Boundaries and recurring operating rules | Paste into the new Project's Instructions field |
+| [CREATE_SITE.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/CREATE_SITE.md) | One-time build and deployment request | Paste as the first message in the new Project |
+| [SCHEDULED_RUN.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/4284b27bb69599cff20843cbd711f445ee16b866/SCHEDULED_RUN.md) | Single-run instructions for the automation | Use when creating or reviewing the scheduled task |
+| [ACCEPTANCE.md](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/b596038b11e46b90e5c6aa037a15530aa32d5386/ACCEPTANCE.md)) | Verification checklist and limits | Use before saying the copy is complete |
 
 ## Quick start in another account
 
