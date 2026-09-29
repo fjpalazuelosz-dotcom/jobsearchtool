@@ -8,7 +8,7 @@ A copy-and-paste specification for building a **new person's** job-search Site i
 
 | File | Purpose | Where to use it |
 | --- | --- | --- |
-| [`[CREATE_SITE.md]([url](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/2c7aa2d67d7f1229587252fe6142bcb0a6620ea0/CREATE_SITE.md))`] | Fill-in profile, criteria, schedule, privacy and publishing choices | Copy into the new ChatGPT Project as a message or attached file |
+| [CREATE_SITE.md]([url](https://github.com/fjpalazuelosz-dotcom/jobsearchtool/blob/2c7aa2d67d7f1229587252fe6142bcb0a6620ea0/CREATE_SITE.md))] | Fill-in profile, criteria, schedule, privacy and publishing choices | Copy into the new ChatGPT Project as a message or attached file |
 | [`prompts/PROJECT_INSTRUCTIONS.md`](prompts/PROJECT_INSTRUCTIONS.md) | Boundaries and recurring operating rules | Paste into the new Project's Instructions field |
 | [`prompts/CREATE_SITE.md`](prompts/CREATE_SITE.md) | One-time build and deployment request | Paste as the first message in the new Project |
 | [`prompts/SCHEDULED_RUN.md`](prompts/SCHEDULED_RUN.md) | Single-run instructions for the automation | Use when creating or reviewing the scheduled task |
